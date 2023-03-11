@@ -6,11 +6,11 @@ Build an ETL pipeline using Python, Pandas, Python, Regex to extract, transform 
 
 ## Approach
 
-(1) After you transform the data, you'll create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, you’ll upload the CSV file data into a Postgres database.
+(1) After transforming the data, four CSV files were created and used to create an ERD and a table schema. Finally, CSV file data were uploaded into a Postgres database.
 
-(2) Four dataframes were created from data imported from two CSV fils:  Category, Subcategory, Contacts and Campaigns.
+(2) The four dataframes were created from data imported from two source data CSV files:  Category, Subcategory, Contacts and Campaigns.
 
-(3) Transformed the data as follows:
+(3) The data were transformed as follows:
 
     - CATEGORY & SUBCATEGORY DATAFRAMES:
         - Created numpy arrays from 1-9 for the categories and 1-24 for the subcategories
