@@ -1,6 +1,6 @@
 # crowdfunding-ETL
 
-Build an ETL pipeline using Python, Pandas, Python, Regex to extract, transform and load data into a SQL database.
+Built an ETL pipeline using Python, Pandas, Python, Regex to extract, transform and load data into a SQL database.
 <p align="center">
 <img width="548" alt="Screen Shot 2023-03-11 at 11 42 54 AM" src="https://user-images.githubusercontent.com/44728723/224496721-a17f6df4-c436-484a-a59b-70663cb74faf.png">
 
