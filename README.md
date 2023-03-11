@@ -2,8 +2,6 @@
 <img width="580" alt="Screen Shot 2023-03-11 at 12 00 24 PM" src="https://user-images.githubusercontent.com/44728723/224499585-2fa40969-6778-4af7-b14f-bc7d64362dcd.png">
 
 Built an ETL pipeline using Python, Pandas, Python, Regex to extract, transform and load data into a SQL database.
-<p align="center">
-<img width="580" alt="Screen Shot 2023-03-11 at 11 50 02 AM" src="https://user-images.githubusercontent.com/44728723/224497019-dc3d9f63-0cc2-4f16-b69d-c8d46350fd81.png">
 
 ## Approach
 
@@ -49,7 +47,8 @@ Built an ETL pipeline using Python, Pandas, Python, Regex to extract, transform 
     
     - Created the tables and columns in SQL
     - Imported the values to the tables 
-
+<p align="center">
+<img width="580" alt="Screen Shot 2023-03-11 at 11 50 02 AM" src="https://user-images.githubusercontent.com/44728723/224497019-dc3d9f63-0cc2-4f16-b69d-c8d46350fd81.png">
 
 ## Technology
 - pandas
