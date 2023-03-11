@@ -8,7 +8,7 @@ Built an ETL pipeline using Python, Pandas, Python, Regex to extract, transform 
 
 (1) After transforming the data, four CSV files were created and used to create an ERD and a table schema. Finally, CSV file data were uploaded into a Postgres database.
 
-(2) The four dataframes were created from data imported from two source data CSV files:  Category, Subcategory, Contacts and Campaigns.
+(2) The four dataframes (Category, Subcategory, Contacts and Campaigns) were created from data imported from two source data Excel files (contacts.xsl and crowdfunding.xlsx).
 
 (3) The data were transformed as follows:
 
