@@ -1,5 +1,5 @@
 # crowdfunding-ETL
-<img width="580" alt="Screen Shot 2023-03-11 at 12 00 24 PM" src="https://user-images.githubusercontent.com/44728723/224499585-2fa40969-6778-4af7-b14f-bc7d64362dcd.png" width="250">
+<img width="580" alt="Screen Shot 2023-03-11 at 12 00 24 PM" src="https://user-images.githubusercontent.com/44728723/224499585-2fa40969-6778-4af7-b14f-bc7d64362dcd.png" width="500">
 
 Built an ETL pipeline using Python, Pandas, Python, Regex to extract, transform and load data into a SQL database.
 
